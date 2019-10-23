@@ -42,8 +42,7 @@ namespace MintaZH
             Console.WriteLine("\nGólkirály góljainak száma mínusz átlagosan szerzett gól: {0}", Golerosseg(golok));
             Console.WriteLine("Legtöbb gólt szerzett védő indexe: {0}", GolerosVedo(golok, posztok));
 
-
-            //Console.ReadLine();
+            Console.ReadLine();
         }
 
         static void TombGenerator(string adatsor, ref string[] nevek, ref int[] golok, ref string[] posztok)
@@ -186,7 +185,5 @@ namespace MintaZH
             }
             return idx;
         }
-
-        
     }
 }
