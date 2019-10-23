@@ -47,14 +47,14 @@ namespace MintaZH
 
         static void TombGenerator(string adatsor, ref string[] nevek, ref int[] golok, ref string[] posztok)
         {
-            string[] jatekosok = adatsor.Split("*");
+            string[] jatekosok = adatsor.Split('*');
             nevek = new string[jatekosok.Length];
             golok = new int[jatekosok.Length];
             posztok = new string[jatekosok.Length];
 
             for(int i = 0; i < jatekosok.Length; i++)
             {
-                string[] adatok = jatekosok[i].Split("#");
+                string[] adatok = jatekosok[i].Split('#');
                 nevek[i] = adatok[0];
                 golok[i] = int.Parse(adatok[2]);
                 posztok[i] = adatok[1];
