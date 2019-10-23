@@ -128,7 +128,7 @@ namespace MintaZH
                 _nevek[i] = nevek[i];
             }
 
-            // rendezés csönnekő sorrendbe
+            // rendezés csökkenő sorrendbe
             for(int i = 1; i < _golok.Length; i++)
             {
                 int j = i-1;
