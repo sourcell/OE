@@ -107,8 +107,7 @@ namespace MintaZH
             {
                 if(posztok[i] == "védő")
                 {
-                    idx++;
-                    vedok[idx] = nevek[i];
+                    vedok[++idx] = nevek[i];
                 }
             }
             return vedok;
@@ -128,7 +127,7 @@ namespace MintaZH
                 _nevek[i] = nevek[i];
             }
 
-            // rendezés csökkenő sorrendbe
+            // rendezés csönnekő sorrendbe
             for(int i = 1; i < _golok.Length; i++)
             {
                 int j = i-1;
