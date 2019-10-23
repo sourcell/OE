@@ -174,13 +174,11 @@ namespace MintaZH
         static int GolerosVedo(int [] golok, string [] posztok)
         {
             int idx = 0;
-            int max = 0;
             for(int i = 0; i < posztok.Length; i++)
             {
-                if(posztok[i] == "védő" && golok[i] > max)
+                if(posztok[i] == "védő" && golok[i] > golok[idx])
                 {
                     idx = i;
-                    max = golok[i];
                 }
             }
             return idx;
