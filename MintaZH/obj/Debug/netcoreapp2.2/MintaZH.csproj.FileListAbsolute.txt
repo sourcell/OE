@@ -1,0 +1,11 @@
+/home/marcell/Documents/0E/MintaZH/bin/Debug/netcoreapp2.2/MintaZH.deps.json
+/home/marcell/Documents/0E/MintaZH/bin/Debug/netcoreapp2.2/MintaZH.runtimeconfig.json
+/home/marcell/Documents/0E/MintaZH/bin/Debug/netcoreapp2.2/MintaZH.runtimeconfig.dev.json
+/home/marcell/Documents/0E/MintaZH/bin/Debug/netcoreapp2.2/MintaZH.dll
+/home/marcell/Documents/0E/MintaZH/bin/Debug/netcoreapp2.2/MintaZH.pdb
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.csprojAssemblyReference.cache
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.csproj.CoreCompileInputs.cache
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.AssemblyInfoInputs.cache
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.AssemblyInfo.cs
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.dll
+/home/marcell/Documents/0E/MintaZH/obj/Debug/netcoreapp2.2/MintaZH.pdb
