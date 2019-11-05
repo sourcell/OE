@@ -1,0 +1,11 @@
+/home/marcell/Documents/0E/feleves/bin/Debug/netcoreapp2.2/feleves.deps.json
+/home/marcell/Documents/0E/feleves/bin/Debug/netcoreapp2.2/feleves.runtimeconfig.json
+/home/marcell/Documents/0E/feleves/bin/Debug/netcoreapp2.2/feleves.runtimeconfig.dev.json
+/home/marcell/Documents/0E/feleves/bin/Debug/netcoreapp2.2/feleves.dll
+/home/marcell/Documents/0E/feleves/bin/Debug/netcoreapp2.2/feleves.pdb
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.csprojAssemblyReference.cache
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.csproj.CoreCompileInputs.cache
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.AssemblyInfoInputs.cache
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.AssemblyInfo.cs
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.dll
+/home/marcell/Documents/0E/feleves/obj/Debug/netcoreapp2.2/feleves.pdb
