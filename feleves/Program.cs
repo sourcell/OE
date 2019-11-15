@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
 
 
 namespace feleves
@@ -38,27 +37,8 @@ namespace feleves
             }
 
             // find overlaps
-            string output = "";
-            int cities = 0;
-
-            for (int i = 0; i < traveler_1.trips.Length; i++)
-            {
-                string city = traveler_1.trips[i].city;
-                for (int j = 0; j < traveler_2.trips.Length; j++)
-                {
-                    if (traveler_1.trips[i].city == traveler_2.trips[j].city)
-                    {
-                        if ((traveler_2.trips[j].from >= traveler_1.trips[i].from && traveler_2.trips[j].from <= traveler_1.trips[i].to)
-                        || (traveler_2.trips[j].to >= traveler_1.trips[i].from && traveler_2.trips[j].to <= traveler_1.trips[i].to))
-                        {
-                            cities++;
-                            output += city + "\n";
-                        }
-                    }
-                }
-            }
-
-            output = cities + "\n" + output;
+            string output = traveler_1.FindOverlaps(traveler_2);
+            output = traveler_1.NumLines(output) + "\n" + output;
 
             StreamWriter kimenet = new StreamWriter("UTAZO.KI");
             kimenet.Write(output.Trim());
