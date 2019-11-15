@@ -1,5 +1,5 @@
 3
-1 6 Eger
+6 6 Eger
 8 10 Miskolc
 15 25 Sárospatak
 4
