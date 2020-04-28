@@ -1,0 +1,8 @@
+evi szilveszter 5:0 5 2019.12.31
+heti elektró 1:30 4 2020.04.28
+heti analZH 0:45 5 2020.04.28
+napi kakkantás 0:10 5 2020.01.01
+allithato hajmosás 0:30 5 2020.04.27 3
+egyszeri a 2:30 3
+egyszeri b 1:0 2
+egyszeri c 1:0 2

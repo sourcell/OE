@@ -1,0 +1,14 @@
+C:\Users\Marcell\source\repos\Feleves\Feleves\bin\Debug\Feleves.exe.config
+C:\Users\Marcell\source\repos\Feleves\Feleves\bin\Debug\Feleves.exe
+C:\Users\Marcell\source\repos\Feleves\Feleves\bin\Debug\Feleves.pdb
+C:\Users\Marcell\source\repos\Feleves\Feleves\obj\Debug\Feleves.csprojAssemblyReference.cache
+C:\Users\Marcell\source\repos\Feleves\Feleves\obj\Debug\Feleves.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\source\repos\Feleves\Feleves\obj\Debug\Feleves.exe
+C:\Users\Marcell\source\repos\Feleves\Feleves\obj\Debug\Feleves.pdb
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\obj\Debug\Feleves.csprojAssemblyReference.cache
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\obj\Debug\Feleves.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\obj\Debug\Feleves.exe
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\obj\Debug\Feleves.pdb
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\bin\Debug\Feleves.exe.config
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\bin\Debug\Feleves.exe
+C:\Users\Marcell\Documents\MARCELL\.OE\SZTF2\Feleves\Feleves\bin\Debug\Feleves.pdb
